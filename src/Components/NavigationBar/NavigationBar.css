@@ -1,0 +1,9 @@
+.active {
+    color: orangered;
+    text-decoration: line-through;
+}
+
+/* Custom styles for SweetAlert2 to increase z-index */
+.swal2-container {
+    z-index: 1070 !important;
+}
